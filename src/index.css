@@ -1,0 +1,6 @@
+svg{
+    cursor: pointer;
+}
+select{
+    -webkit-appearance: listbox !important
+}
